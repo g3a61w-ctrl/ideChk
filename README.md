@@ -1,2 +1,2 @@
 # ideChk
-Check ide LeDeHun version
+Check ide KeDeHun version
